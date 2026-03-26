@@ -2,6 +2,10 @@
 
 API REST Node.js + PostgreSQL, conteneurisée avec Docker Compose.
 
+## Mmebres du groupe
+- Nfaly GUISSE
+- Melissa AIT OUARAB
+
 ## Stack
 
 - Node.js / Express
